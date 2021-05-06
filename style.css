@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+header{
+   background-color:aqua ;
+   border: 5px solid tomato;
+   border-radius: 10px;
+   padding: 10px;
+}
+main h1{
+    color:DarkTurquoise ;
+    size: 25px;
+}
+footer p{
+   border: 3px solid maroon;
+   padding: 3px; 
+}
+#contacts{
+    padding-left: 20px;
+}
+nav {
+    border: 5px  solid green;
+    border-radius: 5px;
+}
+nav a{
+    color: darkred;
+}
+.prod p{
+    background-color: mediumspringgreen;
+    padding: 10px;
+    color: yellow;
+    font-weight: bold;
+}
+#discount{
+    color: turquoise
+    
+}
+#delivery{
+    color: blue;
+    
+}
